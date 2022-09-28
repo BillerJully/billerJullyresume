@@ -9,7 +9,7 @@ body {
   max-width: 900;
   margin: auto;
 }
-h1 {
+/* h1 {
   color: dimgray;
 }
 p {
@@ -53,3 +53,13 @@ p {
   margin: auto;
   margin-top: 15px;
 }
+.box-model div {
+  background: black;
+  height: 200px;
+  width: 25%;
+  float: left;
+  border: 4px solid wheat;
+  padding: 5px;
+  margin: auto;
+  box-sizing: border-box;
+} */
